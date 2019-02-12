@@ -1,0 +1,9 @@
+D:\practice\OOP\InheritPrac\InheritPrac\bin\Debug\InheritPrac.exe
+D:\practice\OOP\InheritPrac\InheritPrac\bin\Debug\InheritPrac.pdb
+D:\practice\OOP\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.Form1.resources
+D:\practice\OOP\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.Properties.Resources.resources
+D:\practice\OOP\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.csproj.GenerateResource.Cache
+D:\practice\OOP\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.exe
+D:\practice\OOP\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.pdb
+D:\practice\OOP\oop-practice\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.exe
+D:\practice\OOP\oop-practice\InheritPrac\InheritPrac\obj\x86\Debug\InheritPrac.pdb
