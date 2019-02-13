@@ -1,0 +1,7 @@
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\obj\x86\Debug\InterfacePrac.Properties.Resources.resources
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\obj\x86\Debug\InterfacePrac.csproj.GenerateResource.Cache
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\bin\Debug\InterfacePrac.exe
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\bin\Debug\InterfacePrac.pdb
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\obj\x86\Debug\InterfacePrac.Form1.resources
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\obj\x86\Debug\InterfacePrac.exe
+D:\practice\OOP\oop-practice\InterfacePrac\InterfacePrac\obj\x86\Debug\InterfacePrac.pdb
