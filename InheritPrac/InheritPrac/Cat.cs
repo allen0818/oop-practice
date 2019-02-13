@@ -9,12 +9,10 @@ namespace InheritPrac
     {
         public Cat(string name) : base(name)
         {
-            this.name = name;
         }
 
         public Cat() : base()
         {
-            this.name = "Unknown";
         }
 
         public string Shout()
