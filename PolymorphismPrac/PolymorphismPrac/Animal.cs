@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PolymorphismPrac
 {
-    class Animal
+    abstract class Animal
     {
         protected string name = String.Empty;
         public Animal(string name)
@@ -36,9 +36,6 @@ namespace PolymorphismPrac
             return "我的名字是" + name + ", " + result;
         }
 
-        public virtual string getShoutSound()
-        {
-            return String.Empty;
-        }
+        public abstract string getShoutSound();
     }
 }
