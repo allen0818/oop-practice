@@ -1,0 +1,4 @@
+D:\practice\OOP\oop-practice\DelegatePrac\DelegatePrac\bin\Debug\DelegatePrac.exe
+D:\practice\OOP\oop-practice\DelegatePrac\DelegatePrac\bin\Debug\DelegatePrac.pdb
+D:\practice\OOP\oop-practice\DelegatePrac\DelegatePrac\obj\x86\Debug\DelegatePrac.exe
+D:\practice\OOP\oop-practice\DelegatePrac\DelegatePrac\obj\x86\Debug\DelegatePrac.pdb
